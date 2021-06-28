@@ -1,3 +1,5 @@
+**This map is now on [Among Us mod manager](https://github.com/MatuxGG/ModManager)**
+
 # Welcome to Better Airship
 
 Join my discord to play with others https://discord.gg/8dA6hjknMW
@@ -9,6 +11,8 @@ V2021.6.15s
 # How to install:
 
 Extract all files into your Among Us folder and then open Among us.exe
+
+Or you can use [Among Us mod manager](https://github.com/MatuxGG/ModManager)
 
 
 **Preview:**
