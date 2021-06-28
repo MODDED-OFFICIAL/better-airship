@@ -21,7 +21,7 @@ Or you can use [Among Us mod manager](https://github.com/MatuxGG/ModManager)
 
 **map Icon:**
 
-![2](https://cdn.discordapp.com/attachments/813115950940553218/837410694432555038/better_airship.png)
+![2](https://github.com/MODDED-OFFICIAL/better-airship/blob/main/betterairship%20logo.png?raw=true)
 
 **credits:**
 
