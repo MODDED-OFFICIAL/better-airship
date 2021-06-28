@@ -4,7 +4,7 @@ Join my discord to play with others https://discord.gg/8dA6hjknMW
 
 # Requirements:
 
-V2020.4.14s (ONLY)
+V2021.6.15s
 
 # How to install:
 
