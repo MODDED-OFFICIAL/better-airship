@@ -8,6 +8,8 @@ Join my discord to play with others https://discord.gg/8dA6hjknMW
 
 V2021.6.15s
 
+Among Us on steam
+
 # How to install:
 
 Extract all files into your Among Us folder and then open Among us.exe
@@ -23,6 +25,8 @@ Or you can use [Among Us mod manager](https://github.com/MatuxGG/ModManager)
 
 ![2](https://github.com/MODDED-OFFICIAL/better-airship/blob/main/betterairship%20logo.png?raw=true)
 
-**credits:**
+**Credits:**
 
 **Creator: Boss_GamerYT ([YouTube](https://youtube.com/BossGamerYTShorts))**
+
+**Creator: DaNoob ([YouTube](https://www.youtube.com/danoob1))**
