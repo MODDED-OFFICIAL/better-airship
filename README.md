@@ -1,4 +1,4 @@
-**This map is now on [Among Us mod manager](https://github.com/MatuxGG/ModManager)**
+**This map is now on [Among Us Mod Manager](https://github.com/MatuxGG/ModManager)**
 
 # Welcome to Better Airship
 
