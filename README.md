@@ -32,7 +32,7 @@ Or you can use [Among Us mod manager](https://github.com/MatuxGG/ModManager)
 
 **Creator: DaNoob ([YouTube](https://www.youtube.com/danoob1))**
 
-# How to build:
+# How to build mod:
 
 + Make a User Var called AmongUs with the value to the Among Us path
 + All code is in the .cs files
