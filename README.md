@@ -16,7 +16,7 @@ Extract all files into your Among Us folder and then open Among us.exe
 
 Or you can use [Among Us mod manager](https://github.com/MatuxGG/ModManager)
 
-# Info:
+# Assets:
 
 **Preview:**
 
