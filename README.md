@@ -2,7 +2,7 @@
 
 # Welcome to Better Airship
 
-Join my discord to play with others https://discord.gg/8dA6hjknMW
+Join my discord to play with others and get updates https://discord.gg/8dA6hjknMW
 
 # Requirements:
 
