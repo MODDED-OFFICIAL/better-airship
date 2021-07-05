@@ -22,7 +22,8 @@ Or you can use [Among Us mod manager](https://github.com/MatuxGG/ModManager)
 
 ![3](https://github.com/MODDED-OFFICIAL/better-airship/blob/main/better%20airship%20preview.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/78909975/124510340-7e2e5f80-ddcb-11eb-853a-a52d79975a06.png)
+![image](https://user-images.githubusercontent.com/78909975/124510401-9c945b00-ddcb-11eb-9ea2-fd000e58e0f1.png)
+
 
 
 **Map Icon:**
