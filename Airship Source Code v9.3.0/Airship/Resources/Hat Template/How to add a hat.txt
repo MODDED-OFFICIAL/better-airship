@@ -1,0 +1,3 @@
+Images can only be 300 x 375 
+
+Check the Hat Templates folder for a template
