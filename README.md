@@ -37,3 +37,8 @@ Or you can use [Among Us mod manager](https://github.com/MatuxGG/ModManager)
 + Make a User Var called AmongUs with the value to the Among Us path
 + All code is in the .cs files
 + Run build.cmd to build and it should be put into the Among Us Path > BepInEx > Plugins as a .dll file
+
+# What does Better-Airship add?
++ A new custom map
++ 4 More colors (Foregreen, Olive, Red-Blue, Blue-Red)
++ 3 New Hats
